@@ -1,4 +1,4 @@
-# TP3 — Refactoring SOLID de ShopLite
+# TP3 - Refactoring SOLID de ShopLite
 
 Refactoring du rapport mensuel des ventes de ShopLite, réalisé selon le parcours Dev de l’énoncé du TP3.
 
